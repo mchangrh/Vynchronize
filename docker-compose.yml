@@ -1,0 +1,9 @@
+version: '3'
+services:
+  vynchronize:
+    image: ghcr.io/mchangrh/vync
+    container_name: vynchronize
+    environment:
+      - YT3_API_KEY
+    ports:
+      - 3000:3000

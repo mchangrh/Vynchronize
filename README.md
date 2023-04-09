@@ -1,6 +1,4 @@
 # Vynchronize
-[Access the application here!](https://vynchronize.herokuapp.com/)
-
 ![Vynchronize Screenshot](https://raw.githubusercontent.com/kyle8998/Vynchronize/master/img/screenshot2.PNG)
 
 Vynchronize is a real-time online video synchronization platform. You can enjoy any video available online with friends who may not be next to you!
